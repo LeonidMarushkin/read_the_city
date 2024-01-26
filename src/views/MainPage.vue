@@ -56,5 +56,6 @@ export default {
   display: flex;
   align-items: flex-start;
   gap: 26px;
+  justify-content: center;
 }
 </style>
